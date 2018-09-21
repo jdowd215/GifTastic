@@ -3,15 +3,6 @@ body {
         url(../images/sport_background.jpg);
         background-size: cover;
     font-family: 'Archivo Black', sans-serif;
-    
-}
-
-#addButton {
-    background-color: white;
-    margin: 20px;
-    padding: 5px;
-    border-radius: 4px;
-    border-color: #555555;
 
 }
 
@@ -21,7 +12,7 @@ body {
 
 }
 
-#addSport {
+#addSport, .sports {
     background-color: white;
     border-color: #555555;
     margin: 20px;
